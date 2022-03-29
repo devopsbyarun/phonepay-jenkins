@@ -1,0 +1,4 @@
+io\curity\identityserver\plugin\authentication\flipckart10AuthenticatorRequestHandler.class
+io\curity\identityserver\plugin\descriptor\flipckart10AuthenticatorPluginDescriptor.class
+io\curity\identityserver\plugin\config\flipckart10AuthenticatorPluginConfig.class
+io\curity\identityserver\plugin\authentication\RequestModel.class
